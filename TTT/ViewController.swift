@@ -140,7 +140,7 @@ class ViewController: UIViewController {
         winnerLabel.isHidden = true
         colors = ["grey","grey","grey","grey","grey","grey","grey","grey","grey"]
         clickedBlocks = []
-        turn = 1
+        turn = 2
         block1.backgroundColor = UIColor.gray
         block2.backgroundColor = UIColor.gray
         block3.backgroundColor = UIColor.gray
